@@ -7,4 +7,5 @@ print(a[1])
 print(a[0:6])
 print (a[0:7])
 
+print("this is used for testing git and github")
 
