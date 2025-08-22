@@ -7,4 +7,6 @@ df.head()
 df.describe()
 
 
+
 df['Revenue'].min()
+
