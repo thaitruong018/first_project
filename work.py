@@ -6,4 +6,5 @@ df.head()
 
 df.describe()
 
-df['Revenue'].mean()
+
+df['Revenue'].min()
